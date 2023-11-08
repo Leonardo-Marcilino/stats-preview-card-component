@@ -121,7 +121,7 @@ span b{
         margin-bottom: 30px;
     }
     #main-image {
-        content: url(/stats-preview-card-component-main/stats-preview-card-component-main/src/images/image-header-mobile.jpg);
+        content: url(/src/images/image-header-mobile.jpg);
         border-radius: 10px 10px 0px 0px;
         width: 100%;
         height: 100%;
